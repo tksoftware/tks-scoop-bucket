@@ -1,0 +1,7 @@
+{
+	"homepage": "https://www.baremetalsoft.com/baretail/index.php",
+	"version": "3.50a",
+	"url": "https://www.baremetalsoft.com/baretail/download.php?p=m",
+	"hash": "https://www.baremetalsoft.com/baretail/index.php",
+	"bin": [ [ "baretail.exe", "baretail", "" ] ]
+}
